@@ -4,6 +4,7 @@
 📚 **Libraries:** tidyverse, lubridate, dplyr, ggplot2, tidyr, leaflet <br>
 📌 **Professional Ability:** Data Cleaning, Exploratory Data Analysis, Evaluation, Interpretation, Data Visualization <br>
 
+
 ## Description
 Toronto launched an evaluation result for apartment buildings registered with RentSafeTO. It will help improve access to information for both existing tenants and those looking for a new home. Making evaluation results more accessible increases transparency on the quality of apartment buildings across Toronto and makes building owners and operators more accountable to current and prospective tenants.
 
