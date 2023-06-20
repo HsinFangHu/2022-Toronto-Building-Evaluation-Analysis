@@ -1,4 +1,4 @@
-# 2022-Toronto-Building-Evaluation-Analysis
+# 2022 Toronto Building Evaluation Analysis
 
 💻 **Programming Language:** R <br>
 📚 **Libraries:** tidyverse, lubridate, dplyr, ggplot2, tidyr, leaflet <br>
