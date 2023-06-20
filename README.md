@@ -1,4 +1,4 @@
-<img width="684" alt="3" src="https://github.com/HsinFangHu/2022-Toronto-Building-Evaluation-Analysis/assets/135067776/96f9afbd-35b1-4ff4-bdbc-660811cbcc5a"># 2022-Toronto-Building-Evaluation-Analysis
+# 2022-Toronto-Building-Evaluation-Analysis
 
 💻 **Programming Language:** R <br>
 📚 **Libraries:** tidyverse, lubridate, dplyr, ggplot2, tidyr, leaflet <br>
