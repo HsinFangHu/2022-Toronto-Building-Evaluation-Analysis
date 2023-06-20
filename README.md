@@ -28,12 +28,12 @@ By delving into the results of the 2022 Toronto Building Assessment, we have ext
 1. Building Safety Scores: The safety scores for private buildings, Toronto Community Housing Corporation buildings, and social housing providers are similar. However, the parking areas in all three building types have lower scores (below 3.5), requiring attention from law enforcement officers.
 
 <img src="https://github.com/HsinFangHu/2022-Toronto-Building-Evaluation-Analysis/assets/135067776/522af1d5-250b-4067-8758-ae47082db528" width="600">
-
+<br>
 
 2. Evaluation Time Seasonalization: Evaluations tend to peak at the end of each year, possibly due to performance reviews for law enforcement officers. This concentration of evaluations within a short period may lead to less precise scores. It is recommended to distribute evaluations evenly throughout the year.
 
 <img src="https://github.com/HsinFangHu/2022-Toronto-Building-Evaluation-Analysis/assets/135067776/71fa58de-38f6-4bfd-ab6d-eb690792c778)" width="600">
-
+<br>
 
 3. Geographic Distribution: Analyzing the latitude and longitude data reveals the distribution of buildings across different areas of Toronto. This information can assist tenants in making decisions based on the safety of neighborhoods.
 
