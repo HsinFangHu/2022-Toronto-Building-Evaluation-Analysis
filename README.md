@@ -22,7 +22,7 @@ This dataset contains building evaluation scores for buildings in Toronto regist
 *RentSafeTO: Apartment Building Standards is a bylaw enforcement program established in 2017 to ensure that owners and operators of apartment buildings with three or more stories or 10 or more units comply with building maintenance standards.
 
 Data Source: https://open.toronto.ca/dataset/apartment-building-evaluation/
-
+<br>
 ## Report Findings
 By delving into the results of the 2022 Toronto Building Assessment, we have extracted some fascinating insights into the state of building safety and compliance in specific regions. We made the following findings:
 1. Building Safety Scores: The safety scores for private buildings, Toronto Community Housing Corporation buildings, and social housing providers are similar. However, the parking areas in all three building types have lower scores (below 3.5), requiring attention from law enforcement officers.
