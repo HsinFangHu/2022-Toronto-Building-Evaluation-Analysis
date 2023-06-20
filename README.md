@@ -13,7 +13,7 @@ Our analysis report aims to summarize the dataset statistically, offering a quic
 
 Overall, this analysis report bridges the gap between the dataset and its implications. It empowers tenants and stakeholders by promoting informed decision-making, accountability, and safer living environments. With improved transparency and access to evaluation results, tenants can make better rental choices, building owners can strive for excellence, and law enforcement officers can prioritize areas in need of attention. Together, these efforts contribute to a safer and more secure housing landscape in Toronto.
 
-<img width="684" alt="3" src="https://github.com/HsinFangHu/2022-Toronto-Building-Evaluation-Analysis/assets/135067776/240790e1-87ea-44d0-96a7-d8852decc737">
+<img width="684" alt="3" src="https://github.com/HsinFangHu/2022-Toronto-Building-Evaluation-Analysis/assets/135067776/0b458a89-1c16-48e9-8c85-e5b76fb24372">
 
 
 ## Dataset
@@ -27,12 +27,12 @@ Data Source: https://open.toronto.ca/dataset/apartment-building-evaluation/
 By delving into the results of the 2022 Toronto Building Assessment, we have extracted some fascinating insights into the state of building safety and compliance in specific regions. We made the following findings:
 1. Building Safety Scores: The safety scores for private buildings, Toronto Community Housing Corporation buildings, and social housing providers are similar. However, the parking areas in all three building types have lower scores (below 3.5), requiring attention from law enforcement officers.
 
-<img src="https://github.com/HsinFangHu/2022-Toronto-Building-Evaluation-Analysis/assets/135067776/522af1d5-250b-4067-8758-ae47082db528" width="600">
+<img src="https://github.com/HsinFangHu/2022-Toronto-Building-Evaluation-Analysis/assets/135067776/b0f83356-ecf5-4e28-8fdb-8a70e61fd943" width="600">
 <br>
 
 2. Evaluation Time Seasonalization: Evaluations tend to peak at the end of each year, possibly due to performance reviews for law enforcement officers. This concentration of evaluations within a short period may lead to less precise scores. It is recommended to distribute evaluations evenly throughout the year.
 
-<img src="https://github.com/HsinFangHu/2022-Toronto-Building-Evaluation-Analysis/assets/135067776/71fa58de-38f6-4bfd-ab6d-eb690792c778)" width="600">
+<img src="https://github.com/HsinFangHu/2022-Toronto-Building-Evaluation-Analysis/assets/135067776/795fe9ad-3923-49d8-9ee8-4b2f5a4fba1f" width="600">
 <br>
 
 3. Geographic Distribution: Analyzing the latitude and longitude data reveals the distribution of buildings across different areas of Toronto. This information can assist tenants in making decisions based on the safety of neighborhoods.
