@@ -23,6 +23,7 @@ This dataset contains building evaluation scores for buildings in Toronto regist
 
 Data Source: https://open.toronto.ca/dataset/apartment-building-evaluation/
 <br>
+
 ## Report Findings
 By delving into the results of the 2022 Toronto Building Assessment, we have extracted some fascinating insights into the state of building safety and compliance in specific regions. We made the following findings:
 1. Building Safety Scores: The safety scores for private buildings, Toronto Community Housing Corporation buildings, and social housing providers are similar. However, the parking areas in all three building types have lower scores (below 3.5), requiring attention from law enforcement officers.
