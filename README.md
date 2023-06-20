@@ -1,4 +1,4 @@
-# 2022-Toronto-Building-Evaluation-Analysis
+<img width="684" alt="3" src="https://github.com/HsinFangHu/2022-Toronto-Building-Evaluation-Analysis/assets/135067776/96f9afbd-35b1-4ff4-bdbc-660811cbcc5a"># 2022-Toronto-Building-Evaluation-Analysis
 
 💻 **Programming Language:** R <br>
 📚 **Libraries:** tidyverse, lubridate, dplyr, ggplot2, tidyr, leaflet <br>
@@ -10,6 +10,8 @@ Toronto launched an evaluation result for apartment buildings registered with Re
 Our analysis report aims to summarize the dataset statistically, offering a quick understanding of the data's significance. By presenting statistical data, it enables tenants to grasp the safety status and scores of different areas, aiding them in making informed rental choices. Additionally, it helps building owners and operators identify benchmarks for quality construction. Furthermore, the report can highlight areas requiring special attention, alerting law enforcement officers to locations with lower safety factors.
 
 Overall, this analysis report bridges the gap between the dataset and its implications. It empowers tenants and stakeholders by promoting informed decision-making, accountability, and safer living environments. With improved transparency and access to evaluation results, tenants can make better rental choices, building owners can strive for excellence, and law enforcement officers can prioritize areas in need of attention. Together, these efforts contribute to a safer and more secure housing landscape in Toronto.
+
+<img width="684" alt="3" src="https://github.com/HsinFangHu/2022-Toronto-Building-Evaluation-Analysis/assets/135067776/240790e1-87ea-44d0-96a7-d8852decc737">
 
 
 ## Dataset
