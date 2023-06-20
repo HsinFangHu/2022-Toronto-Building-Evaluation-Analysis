@@ -1,9 +1,11 @@
 # 2022 Toronto Building Evaluation Analysis
 
 
+
 💻 **Programming Language:** R <br>
 📚 **Libraries:** tidyverse, lubridate, dplyr, ggplot2, tidyr, leaflet <br>
 📌 **Professional Ability:** Data Cleaning, Exploratory Data Analysis, Evaluation, Interpretation, Data Visualization <br>
+
 
 
 ## Description
